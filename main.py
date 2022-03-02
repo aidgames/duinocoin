@@ -22,7 +22,7 @@ def current_time():
 
 username = 'loaderH'
 
-UseLowerDiff = False
+UseLowerDiff = True
 
 def fetch_pools():
     while True:
